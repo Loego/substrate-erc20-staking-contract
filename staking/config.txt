@@ -1,0 +1,7 @@
+[erc20]
+address(SS58):  aueHmW2G9GiyvfUcjNc2s4g15XYh99c1Nu4bgDGjwbdpQUv
+address:        0xdbe9fdc21d9c6ede4f0928a094626760dfc0e701b9e5cfa5abfd57c2f69e7f3d
+hash:           0xc76a113d0817b9d5af9b5d84ba59ffab4c05f6e04cbf2f62f30c739f718f869c
+symbol:         erc20
+supply:         1000_0000
+
